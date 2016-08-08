@@ -511,6 +511,7 @@
 				ECD5411A1D49F877006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECD5411B1D49F877006F7708 /* Build configuration list for PBXNativeTarget "ocVswiftTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +520,7 @@
 				ECD5411D1D49F877006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ECD5411E1D49F877006F7708 /* Build configuration list for PBXNativeTarget "ocVswiftUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +529,7 @@
 				ECD541201D49F877006F7708 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
